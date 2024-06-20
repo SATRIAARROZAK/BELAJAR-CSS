@@ -1,0 +1,13 @@
+.box{
+    background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+
+    max-width: 600px;
+    height: 400px;
+}
+
+p{
+    font-size: 2em;
+    font-weight: 900;
+}
