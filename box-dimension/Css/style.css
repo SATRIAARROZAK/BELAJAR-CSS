@@ -1,0 +1,13 @@
+/* ini untuk mengatur box luar */
+.box-dimention{
+    background-color: aqua; 
+    height: 350px;
+    width: 500px;
+}
+
+/* ini untuk mengatur box element p */
+p{
+    background-color: blue;
+    width: 70%;
+    height: 70%;
+}
